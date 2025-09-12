@@ -51,10 +51,10 @@
 			var timeout;
 			document.addEventListener("visibilitychange", function() {
 				if (document.hidden) {
-					document.title = "👀 We miss you! Come back!";
+					document.title = "👀 Chúng tôi nhớ bạn, hãy quay lại và đọc tiếp bạn nhé!";
 				} else {
 					clearTimeout(timeout);
-					document.title = "🎉 Welcome back!";
+					document.title = "🎉 Chào mừng quay trở lại!";
 							setTimeout(function() {
 								document.title = originalTitle;
 							}, 2000);
