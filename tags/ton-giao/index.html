@@ -36,13 +36,17 @@
 			var timeout;
 			document.addEventListener("visibilitychange", function() {
 				if (document.hidden) {
-					document.title = "👀 Chúng tôi nhớ bạn, hãy quay lại và đọc tiếp bạn nhé!";
+					timeout = setTimeout(function() {
+							document.title = "👀 Chúng tôi nhớ bạn, hãy quay lại và đọc tiếp bạn nhé!";
+						}, 1000);
 				} else {
 					clearTimeout(timeout);
-					document.title = "🎉 Chào mừng quay trở lại!";
+					setTimeout(function() {
+							document.title = "🎉 Chào mừng quay trở lại!";
 							setTimeout(function() {
 								document.title = originalTitle;
 							}, 2000);
+						}, 1000);
 				}
 			});
 		})();</script></body></html>
