@@ -1,1 +1,1 @@
-Canonical: https://minhtrietthiendinh-org.pages.dev/security.txt
+Canonical: https://kieumanh.github.io/minhtrietthiendinh.org/security.txt
