@@ -1,1 +1,3 @@
-Canonical: https://minhtrietthiendinh.org/security.txt
+Contact: kieumanh2211@gmail.com
+Preferred-Languages: vi
+Canonical: https://minhtrietthiendinh.com/security.txt
