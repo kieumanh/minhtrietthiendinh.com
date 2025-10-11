@@ -3,7 +3,7 @@
     <title>Minh Triết Thiền Định</title>
     <link href="https://minhtrietthiendinh.com/feed.xml" rel="self" />
     <link href="https://minhtrietthiendinh.com" />
-    <updated>2025-10-07T05:38:27+07:00</updated>
+    <updated>2025-10-11T15:18:34+07:00</updated>
     <author>
         <name>Kiều Mạnh - Hương Thiền</name>
     </author>
@@ -120,6 +120,9 @@
         </author>
         <link href="https://minhtrietthiendinh.com/ebook-ban-do-thien-dinh/"/>
         <id>https://minhtrietthiendinh.com/ebook-ban-do-thien-dinh/</id>
+        <media:content url="https://minhtrietthiendinh.com/media/posts/16/Ebook-Ban-do-Thien-Dinh.png" medium="image" />
+            <category term="thiền định"/>
+            <category term="sách"/>
 
         <updated>2025-09-25T04:07:48+07:00</updated>
             <summary></summary>

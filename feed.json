@@ -47,13 +47,16 @@
             "id": "https://minhtrietthiendinh.com/ebook-ban-do-thien-dinh/",
             "url": "https://minhtrietthiendinh.com/ebook-ban-do-thien-dinh/",
             "title": "Ebook Bản đồ Thiền Định",
+            "image": "https://minhtrietthiendinh.com/media/posts/16/Ebook-Ban-do-Thien-Dinh.png",
             "author": {
                 "name": "Kiều Mạnh - Hương Thiền"
             },
             "tags": [
+                   "thiền định",
+                   "sách"
             ],
             "date_published": "2025-09-25T04:07:48+07:00",
-            "date_modified": "2025-10-07T05:33:19+07:00"
+            "date_modified": "2025-10-11T15:18:34+07:00"
         }
     ]
 }
