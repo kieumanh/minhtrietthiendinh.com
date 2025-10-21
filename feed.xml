@@ -3,12 +3,28 @@
     <title>Minh Triết Thiền Định</title>
     <link href="https://minhtrietthiendinh.com/feed.xml" rel="self" />
     <link href="https://minhtrietthiendinh.com" />
-    <updated>2025-10-21T06:02:42+07:00</updated>
+    <updated>2025-10-21T11:59:22+07:00</updated>
     <author>
         <name>Kiều Mạnh - Hương Thiền</name>
     </author>
     <id>https://minhtrietthiendinh.com</id>
 
+    <entry>
+        <title>Demo</title>
+        <author>
+            <name>Kiều Mạnh - Hương Thiền</name>
+        </author>
+        <link href="https://minhtrietthiendinh.com/demo/"/>
+        <id>https://minhtrietthiendinh.com/demo/</id>
+
+        <updated>2025-10-21T11:59:22+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/episode/1ypZu6Wk0Rx7qLmz9hp21G?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Thiền định thời sơ khai - Lịch sử và nguồn gốc</title>
         <author>
@@ -340,8 +356,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://minhtrietthiendinh.com/media/posts/20/Sharing-channel-_Meditation-wisdom_.jpg" class="type:primaryImage" alt="Giới thiệu về dự án Minh Triết Thiền Định" /></p>
-                <div class="post__iframe"><iframe width="100%" height="152" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/episode/1ypZu6Wk0Rx7qLmz9hp21G?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
-<h1>Lời ngỏ 💌</h1>
+                <h1>Lời ngỏ 💌</h1>
 <p> </p>
 <p><span style="font-weight: 400;">Bạn thân mến, nếu bạn đang hỏi những câu hỏi như: <br><br></span><span style="font-weight: 400;">“<strong>Mình là ai? </strong></span></p>
 <p><span style="font-weight: 400;"><strong>Mình sống để làm gì?</strong></span></p>
